@@ -1,2 +1,3 @@
-# COVID-19-Detection-Using-CNN-from-X-ray-Images
-The emergence of Coronavirus Disease 2019 (COVID-19) in early December 2019 has caused immense damage to health and global well-being. Currently, there are approximately five million confirmed cases and the novel virus is still spreading rapidly all over the world. The chest X-ray images along with emerging Artificial Intelligence (AI) methodologies, in particular, Deep Learning (DL) algorithms have recently become a worthy choice for early COVID-19 screening. This work proposes a DL-assisted automated method using X-ray images for the early diagnosis of COVID-19 infection. We evaluate the effectiveness of the pre-trained Convolutional Neural Network (CNN) model. The model has been validated on publicly available chest X-ray images and it is obtained by CNN with an accuracy of 97.26%. This study will be useful for researchers to think about the design of more effective CNN-based models for early COVID-19 detection.
+# Dataset Link bellow:
+
+https://www.kaggle.com/datasets/nabeelsajid917/covid-19-x-ray-10000-images
